@@ -1,0 +1,77 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body, html {
+  /*font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;*/
+  /*font-weight: 300;*/
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  height: 100%;
+  color: #323232;
+}
+.parallax {
+  position: relative;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+div p{
+  font-size: 1.25em;
+}
+.firstBg {
+  /* The image used */
+  /*background-image: url("http://media1.santabanta.com/full1/Animals/Cats/cats-149a.jpg");*/
+  background-image: url("https://pixabay.com/static/uploads/photo/2016/02/19/11/26/blossom-1209714_960_720.jpg");
+
+  /* Full height */
+  min-height: 100%;
+}
+.caption {
+  background: white;
+  position: absolute;
+  left: 25%;
+  top: 45%;
+  height: 10%;
+  width: 50%;
+  text-align: center;
+  opacity: 0.95;
+  border-radius: 5px;
+}
+.caption a{
+  color: #323232;
+}
+.annaLewis{
+  font-size: 4em;
+  line-height: 1.2em;
+  letter-spacing: 8px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  color: #32cd32;
+}
+.anna{
+  color: #32cd32;
+}
+.border{
+  line-height: 3em;
+}
+.find{
+  margin-left: 30%;
+  font-size: 1.5em;
+}
+.find a{
+  color: white;
+}
+.secondBg{
+  /*background-image: url("http://www.rd.com/wp-content/uploads/sites/2/2016/02/07-train-cat-walk-on-a-leash.jpg");*/
+  background-image: url("https://pixabay.com/static/uploads/photo/2014/09/09/19/07/corn-field-440338_960_720.jpg");
+  min-height: 100%;
+  min-width: 100%;
+}
+.bgimg-3{
+  background-image: url("https://i.ytimg.com/vi/MG8KADiRbOU/maxresdefault.jpg");
+  min-height: 100%;
+  min-width: 100%;
+}
