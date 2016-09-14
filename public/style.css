@@ -24,8 +24,7 @@ div p{
 .firstBg {
   /* The image used */
   /*background-image: url("http://media1.santabanta.com/full1/Animals/Cats/cats-149a.jpg");*/
-  background-image: url("https://pixabay.com/static/uploads/photo/2016/02/19/11/26/blossom-1209714_960_720.jpg");
-
+  background-image: url("images/blossoms.jpg");
   /* Full height */
   min-height: 100%;
 }
@@ -66,7 +65,7 @@ div p{
 }
 .secondBg{
   /*background-image: url("http://www.rd.com/wp-content/uploads/sites/2/2016/02/07-train-cat-walk-on-a-leash.jpg");*/
-  background-image: url("https://pixabay.com/static/uploads/photo/2014/09/09/19/07/corn-field-440338_960_720.jpg");
+  background-image: url("images/cornfield.jpg");
   min-height: 100%;
   min-width: 100%;
 }
