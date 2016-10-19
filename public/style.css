@@ -12,7 +12,7 @@ body, html {
 }
 .parallax {
   position: relative;
-  opacity: 0.65;
+  /*opacity: 0.65;*/
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -22,9 +22,9 @@ div p{
   font-size: 1.25em;
 }
 .firstBg {
-  /* The image used */
   /*background-image: url("http://media1.santabanta.com/full1/Animals/Cats/cats-149a.jpg");*/
-  background-image: url("images/blossoms.jpg");
+  background: aliceblue;
+  /*background-image: url("images/blossoms.jpg");*/
   /* Full height */
   min-height: 100%;
 }
@@ -49,6 +49,7 @@ div p{
   font-family: 'Raleway', sans-serif;
   font-weight: 100;
   color: #32cd32;
+  background: aliceblue;
 }
 .anna{
   color: #32cd32;
@@ -65,7 +66,8 @@ div p{
 }
 .secondBg{
   /*background-image: url("http://www.rd.com/wp-content/uploads/sites/2/2016/02/07-train-cat-walk-on-a-leash.jpg");*/
-  background-image: url("images/cornfield.jpg");
+  background: #b3dbff;
+  /*background-image: url("images/cornfield.jpg");*/
   min-height: 100%;
   min-width: 100%;
 }
